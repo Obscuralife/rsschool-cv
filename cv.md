@@ -11,3 +11,13 @@
 			Stress-resistant.
 			Punctual.
 			Minimalist person.
+			
+		##Technologies:
+			.Net, C#, WPF, Entity Framework Core, SQL, NoSql, ASP.Net Core; 
+			
+		##Examples: [example](https://github.com/Obscuralife/MyFirstBlog)
+		
+		##Academic History: 
+			EPAM .NET Lab 2019-2020
+			
+		##English: A2;
